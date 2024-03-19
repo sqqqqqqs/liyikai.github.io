@@ -1,0 +1,21 @@
+Our Custom Object & Interaction :
+
+1. Collectable leaf
+Besides the landmark that can provide extra seed for players, we also want player to explore more
+so we set some collectable leaves that rotate in the environment, by going approach, the player can get 
+a one-time lead price.(currency price)
+
+2. The direction system
+Without any clues, player will be at a loss where to unlock the four remaining seeds, then we have a direction
+button, which will appear a panel after pressed, in which four button stands for four location landmarks
+that you can unlock the seeds! You may press any one to produce a clear line that navigate you to unlock it.
+After being enough close, the line will disappear if not pressed and far away enough.
+
+3. The snowing weather!!
+In Ann Arbor, the weather is always strange! Although in mid-March, it can still snow! So that we have 
+create a unstable weather system, you may see snowy effect for some time and after that, the snowy effect may 
+disappear. You can pay attention to the player's upper area.
+
+Link to Yikai Li: https://sqqqqqqs.github.io/eecs498_003.github.io/
+Link to XuTeng Luo: http:://xttzjj.github.io/
+Link to p1_gold.zip: https://drive.google.com/file/d/1MiQ3mLXESDUYdSArdabHmk56qi-IYq45/view?usp=drive_link
