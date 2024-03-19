@@ -17,5 +17,5 @@ create a unstable weather system, you may see snowy effect for some time and aft
 disappear. You can pay attention to the player's upper area.
 
 Link to Yikai Li: https://sqqqqqqs.github.io/eecs498_003.github.io/
-Link to XuTeng Luo: http:://xttzjj.github.io/
-Link to p1_gold.zip: https://drive.google.com/file/d/1MiQ3mLXESDUYdSArdabHmk56qi-IYq45/view?usp=drive_link
+Link to Pan XiXiao: https://xcicicix.github.io/ 
+Link to p2_gold.zip: 
