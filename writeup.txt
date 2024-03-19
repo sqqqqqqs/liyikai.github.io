@@ -1,0 +1,26 @@
+Our Custom Object & Interaction :
+
+1. Growing Plants
+   As you works inside the CSE laboratory, the time will pass quickly as well as the surroundings
+so that the plants will grow to a incredible scale from a small seed as times passes by.
+
+2. DeadLine AI following
+   As we all know, EECS students are pushing by all kinds of deadlines, so that a board with deadline
+will follow you up no matter where you goes, it may be somewhat cute at first but will definitely annoy
+you when it disturbs you all the time.
+
+3. Doctor Strange‘s cape and portals
+    You accidentally find a wierd cape, seemingly like the one of Doctor Stranges, when you interact with 
+it and put it on, you will find three magical fantastic portals visible to you in the laboratory!! You 
+can quickly shuttle through them to save your time when working!! However, no matter where you go , your
+deadline will still detect and catch you!!
+
+4. Collapsing laboratory in another universe
+    When you excitedly travel through the portals, possibility is that you may be accidentally transported
+to the roof of the building and up there exists another mysterious portal. When you go across, you will be 
+inside a CSE laboratory in another universe! However, the world is collapsing and you know you should leave
+as quickly as possible, then you leave the room interacting with the door, the later story......
+
+Link to Yikai Li: https://sqqqqqqs.github.io/eecs498_003.github.io/
+Link to XuTeng Luo: http:://xttzjj.github.io/
+Link to p1_gold.zip: https://drive.google.com/file/d/1MiQ3mLXESDUYdSArdabHmk56qi-IYq45/view?usp=drive_link
